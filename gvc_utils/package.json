@@ -1,0 +1,21 @@
+{
+  "name": "gvc_utils",
+  "main": "./gvc_utils.js",
+  "description": "YOUR PROJECT DESCRIPTION HERE",
+  "author": {
+    "name": "YOUR NAME",
+    "email": "your@emailaddress.com"
+  },
+  "version": "0.0.5",
+  "dependencies": {
+    "lodash": "",
+    "convert-json": ""
+  },
+  "engine": "node >= 0.6.6",
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "_id": "gvc_utils@0.0.5",
+  "scripts": {},
+  "_shasum": "9f36593d454b468d6f3ad4235327bb98cd36d003",
+  "_from": "gvc_utils@"
+}
