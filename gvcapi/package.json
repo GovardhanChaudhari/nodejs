@@ -1,0 +1,27 @@
+{
+  "name": "gvcapi",
+  "main": "./gvc_api.js",
+  "repository": {
+    "url": ""
+  },
+  "description": "comming libs",
+  "author": {
+    "name": "Govardhan Chaudhari",
+    "email": "govardhanchaudhari@gmail.com"
+  },
+  "version": "0.0.14",
+  "dependencies": {
+    "node-xlsx": "",
+    "lodash": "",
+    "convert-json": "",
+    "json2csv": "",
+    "gvc_utils": ""
+  },
+  "engine": "node >= 0.6.6",
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "_id": "gvcapi@0.0.14",
+  "scripts": {},
+  "_shasum": "4254b99449e381c84d8bc1b43c1090d20e8a926e",
+  "_from": "gvcapi@"
+}

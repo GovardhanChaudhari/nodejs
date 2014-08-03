@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/gvcapi/gvcapi.iml" filepath="$PROJECT_DIR$/gvcapi/gvcapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/nodejs.iml" filepath="$PROJECT_DIR$/nodejs.iml" />
     </modules>
   </component>
