@@ -1,15 +1,17 @@
 {
   "name": "gvc_utils",
   "main": "./gvc_utils.js",
-  "description": "YOUR PROJECT DESCRIPTION HERE",
+  "description": "Common javascript and node utils",
   "author": {
-    "name": "YOUR NAME",
-    "email": "your@emailaddress.com"
+    "name": "Govardhan V. Chaudhari",
+    "email": "govardhanchaudhari@gamil.com"
   },
-  "version": "0.0.5",
+  "version": "0.0.7",
   "dependencies": {
     "lodash": "",
-    "convert-json": ""
+    "convert-json": "",
+    "mongodb":"",
+    "mongoose":""
   },
   "engine": "node >= 0.6.6",
   "readme": "ERROR: No README data found!",

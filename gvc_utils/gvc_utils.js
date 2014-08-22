@@ -6,3 +6,7 @@ module.exports.excel = require('./utils/excel_utils.js');
 module.exports.csv = require('./utils/csvUtils.js');
 module.exports.exec = require('./utils/CmdExec.js');
 module.exports.nodejs = require('./utils/NodeUtils.js');
+module.exports.MongoDb = require('./utils/db/MongoDb.js');
+module.exports.Mongoose = require('./utils/db/odm/MongooseOdm.js');
+module.exports.Express = require('./utils/ExpressUtils.js');
+module.exports.FileDirUtils = require('./utils/FileDirUtils.js');
