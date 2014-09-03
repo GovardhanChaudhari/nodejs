@@ -6,7 +6,7 @@
     "name": "Govardhan V. Chaudhari",
     "email": "govardhanchaudhari@gamil.com"
   },
-  "version": "0.0.7",
+  "version": "0.0.8",
   "dependencies": {
     "lodash": "",
     "convert-json": "",

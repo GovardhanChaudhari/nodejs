@@ -3,7 +3,6 @@
  */
 
 var _ = require('lodash');
-var functionUtils = require("./FunctionUtils.js");
 module.exports = {
 
     removeFirstChar : function (string) {
