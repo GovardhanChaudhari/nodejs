@@ -3,7 +3,7 @@
  */
 
 var _ = require('lodash');
-
+var functionUtils = require("./FunctionUtils.js");
 module.exports = {
 
     removeFirstChar : function (string) {
@@ -12,5 +12,9 @@ module.exports = {
 
     containsSubString : function (stringValue,subString) {
         return _.isEmpty(stringValue)  ? false : stringValue.indexOf(subString) > -1
+    },
+
+    append: function () {
+        return _.values(arguments).join(" ");
     }
 };
